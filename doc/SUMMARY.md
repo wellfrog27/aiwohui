@@ -21,8 +21,5 @@
     * [流量质量指标](source/chapter4/section2.md)
     * [流量转化指标](source/chapter4/section3.md)
     * [网站词汇列表](source/chapter4/section4.md)
-    * [测试](source/chapter4/section5.md)
-    * [测试1](source/chapter4/section6.md)
-    * [测试2](source/chapter4/section7.md)
 * [专业术语](source/chapter/README.md)
 
