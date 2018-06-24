@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [百度账户](source/chapter1/README.md)
-    * [账户层次结构](source/chapter1/section1.md)
+    * [账户层次类别](source/chapter1/section1.md)
     * [账户权限](source/chapter1/section2.md)
 * [统计代码](source/chapter2/README.md)
     * [代码获取](source/chapter2/section1.md)
