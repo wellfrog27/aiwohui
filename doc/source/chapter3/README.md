@@ -3,7 +3,7 @@
 百度统计“管理”模块为您提供一系列设置功能，方便您对网站进行全面的统计。
 
 <div style="text-align:center">
-    <img style="width:px;"src="file:///home/lin/Pictures/aiwohui/setting.png" />
+    <img style="width:px;"src="https://upload-images.jianshu.io/upload_images/11485868-98a8a6747b96c7e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"/>
 </div>
 
 |功能模块|    功能 | 说明|
