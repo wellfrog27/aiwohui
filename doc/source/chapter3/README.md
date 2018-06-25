@@ -1,7 +1,10 @@
-#统计设置
+#站点管理与统计设置
 
 百度统计“管理”模块为您提供一系列设置功能，方便您对网站进行全面的统计。
-![](https://mtj.baidu.com/static/article/image/dhYwDlLYGv1477813643.png)
+
+<div style="text-align:center">
+    <img style="width:px;"src="file:///home/lin/Pictures/aiwohui/setting.png" />
+</div>
 
 |功能模块|    功能 | 说明|
 |--|--|--|
